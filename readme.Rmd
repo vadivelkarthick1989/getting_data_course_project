@@ -1,7 +1,5 @@
----
-title: "Readme"
-output: html_document
----
+Readme
+================================
 
 This is an document tell about run_analysis.R script
 
